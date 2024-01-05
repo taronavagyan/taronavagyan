@@ -1,7 +1,17 @@
-### Hi there 👋
+### Hi, I'm Taron 👋
+
+I'm a full-stack Software Engineer with experience in TypeScript, AWS, SQL, React, and Go.
+
+🗝️ Co-Creator of Embrasure
+
+🌴 Based in Los Angeles
+
+🤔 Currently thinking about warmer weather
+
+💬 Ask me about chess!
+
 
 <!--
-**taronavagyan/taronavagyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
