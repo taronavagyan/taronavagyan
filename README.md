@@ -6,7 +6,7 @@ I'm a full-stack Software Engineer with experience in TypeScript, AWS, SQL, Reac
 
 🌴 Based in Los Angeles
 
-🤔 Currently thinking about warmer weather
+🤔 Currently thinking about cooler weather
 
 💬 Ask me about chess!
 
